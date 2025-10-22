@@ -20,7 +20,7 @@ Frontend: Typescript, Bolt and HTML/CSS/JS
 
 git clone https://github.com/your-username/travelpair.git
 cd travelpair
-npm install   # or pip install -r requirements.txt
+npm install or pip install -r requirements.txt
 
 ▶️ Run the Project -
 
