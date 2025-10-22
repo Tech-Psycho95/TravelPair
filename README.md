@@ -1,5 +1,7 @@
 ✈️ Travelpair – Autonomous Travel Fare Comparison Agent
+
 🧠 What It Does
+
 Travelpair is an autonomous agent-powered web app that compares flight and train fares across multiple platforms (e.g., IRCTC, Skyscanner, Cleartrip). It uses Composio’s Tool Router to dynamically plan and execute multi-step tasks like searching fares, aggregating results, and presenting the best options — all from a single user query.
 
 Problem Solved: Travelers waste time switching between apps to find the best deal. Travelpair centralizes this process, saving time and money with intelligent automation.
